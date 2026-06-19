@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>
+🎓Bachelor of technology : Computer Science & Engineering Student |<br>📊Aspiring Data Engineer & Web Developer**<br>📈 Skilled in SQL,Python ,Git and GitHub<br>🌱Always learning ,exploring and growing in field of Computer Science Engineering
 
 
 ## 🌐 Socials:
